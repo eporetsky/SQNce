@@ -1,0 +1,4 @@
+genotype_id	annotation_type	source	annotation_name
+Arabidopsis thaliana	rice-defline	Phytozome	Athaliana_167_TAIR10.annotation_info.txt
+Glycine max	arabi-defline	Phytozome	Gmax_508_Wm82.a4.v1.annotation_info.txt
+Zea mays	arabi-defline	Phytozome	Zmays_493_RefGen_V4.annotation_info.txt
