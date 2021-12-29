@@ -1,0 +1,8 @@
+species	genotype	source	fasta_name
+Arabidopsis thaliana	Col-0	SUPERFAMILY	Athaliana_167_TAIR10.protein_primaryTranscriptOnly.ssf
+Oryza sativa	Osativa	SUPERFAMILY	Osativa_323_v7.0.protein_primaryTranscriptOnly.ssf
+Panicum virgatum	Pvirgatum	SUPERFAMILY	Pvirgatum_516_v5.1.protein_primaryTranscriptOnly.ssf
+Sorghum bicolor	Sbicolor	SUPERFAMILY	Sbicolor_454_v3.1.1.protein_primaryTranscriptOnly.ssf
+Setaria italica	Sitalica	SUPERFAMILY	Sitalica_312_v2.2.protein_primaryTranscriptOnly.ssf
+Setaria viridis	Sviridis	SUPERFAMILY	Sviridis_500_v2.1.protein_primaryTranscriptOnly.ssf
+Zea mays	B73	SUPERFAMILY	Zmays_493_RefGen_V4.protein_primaryTranscriptOnly.ssf

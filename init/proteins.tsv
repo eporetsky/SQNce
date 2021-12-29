@@ -1,4 +1,9 @@
 species_id	genotype_id	fasta_name
 Arabidopsis thaliana	Col-0	Athaliana_167_TAIR10.protein_primaryTranscriptOnly.fa.gz
 Glycine max	Wm82	Gmax_508_Wm82.a4.v1.protein_primaryTranscriptOnly.fa.gz
+Oryza sativa	Osativa	Osativa_323_v7.0.protein_primaryTranscriptOnly.fa.gz
+Panicum virgatum	Pvirgatum	Pvirgatum_516_v5.1.protein_primaryTranscriptOnly.fa.gz
+Sorghum bicolor	Sbicolor	Sbicolor_454_v3.1.1.protein_primaryTranscriptOnly.fa.gz
+Setaria italica	Sitalica	Sitalica_312_v2.2.protein_primaryTranscriptOnly.fa.gz
+Setaria viridis	Sviridis	Sviridis_500_v2.1.protein_primaryTranscriptOnly.fa.gz
 Zea mays	B73	Zmays_493_RefGen_V4.protein_primaryTranscriptOnly.fa.gz
