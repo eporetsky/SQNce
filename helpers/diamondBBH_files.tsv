@@ -1,4 +1,4 @@
-species_id	genotype_id	fasta_name
+Species	Genotype	File-name
 Zea mays	CML247	Zm-CML247-REFERENCE-NAM-1.0_Zm00023ab.1.protein.canonical.fa.gz
 Zea mays	CML69	Zm-CML69-REFERENCE-NAM-1.0_Zm00020ab.1.protein.canonical.fa.gz
 Zea mays	B73v5	Zm-B73-REFERENCE-NAM-5.0_Zm00001eb.1.protein.canonical.fa.gz
