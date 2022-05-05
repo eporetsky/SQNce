@@ -1,0 +1,20 @@
+genome_id	species_name	genotype_name	source_id	file_name
+Ahalleri	Arabidopsis halleri	Ahalleri	Phytozome	Ahalleri_264_v1.1.annotation_info.txt
+Alyrata	Arabidopsis lyrata	Alyrata	Phytozome	Alyrata_384_v2.1.annotation_info.txt
+Athaliana	Arabidopsis thaliana	Col-0	Phytozome	Athaliana_167_TAIR10.annotation_info.txt
+Boleracea	Brassica oleracea	Boleracea	Phytozome	Boleraceacapitata_446_v1.0.annotation_info.txt
+Brapa	Brassica rapa	Brapa	Phytozome	BrapaFPsc_277_v1.3.annotation_info.txt
+Gmax	Glycine max	Gmax	Phytozome	Gmax_508_Wm82.a4.v1.annotation_info.txt
+Hvulgare	Hordeum vulgare	Hvulgare	Phytozome	Hvulgare_462_r1.annotation_info.txt
+Mtruncatula	Medicago truncatula	Mtruncatula	Phytozome	Mtruncatula_285_Mt4.0v1.annotation_info.txt
+Osativa	Oryza sativa	Osativa	Phytozome	Osativa_323_v7.0.annotation_info.txt
+Othomaeum	Oropetium thomaeum	Othomaeum	Phytozome	Othomaeum_386_v1.0.annotation_info.txt
+Phallii	Panicum hallii	Phallii	Phytozome	Phallii_590_v3.2.annotation_info.txt
+Platifolius	Pharus latifolius	Platifolius	Phytozome	Platifolius_680_v1.1.annotation_info.txt
+Pvulgaris	Phaseolus vulgaris	Pvulgaris	Phytozome	Pvulgaris_442_v2.1.annotation_info.txt
+Sbicolor	Sorghum bicolor	Sbicolor	Phytozome	Sbicolor_454_v3.1.1.annotation_info.txt
+Slycopersicum	Solanum lycopersicum	Slycopersicum	Phytozome	Slycopersicum_691_ITAG4.0.annotation_info.txt
+Taestivum	Triticum aestivum	Taestivum	Phytozome	Taestivum_296_v2.2.annotation_info.txt
+Tintermedium	Thinopyrum intermedium	Tintermedium	Phytozome	Tintermedium_503_v2.1.annotation_info.txt
+Vunguiculata	Vigna unguiculata	Vunguiculata	Phytozome	Vunguiculata_540_v1.2.annotation_info.txt
+ZmB73v4	Zea mays	B73	Phytozome	Zmays_493_RefGen_V4.annotation_info.txt
