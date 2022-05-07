@@ -1,20 +1,20 @@
-genotype_id	annotation_type	source	annotation_name	complete
-Arabidopsis halleri	arabi-defline	Phytozome	Ahalleri_264_v1.1.annotation_info.txt	yes
-Arabidopsis lyrata	arabi-defline	Phytozome	Alyrata_384_v2.1.annotation_info.txt	yes
-Arabidopsis thaliana	rice-defline	Phytozome	Athaliana_167_TAIR10.annotation_info.txt	yes
-Brassica oleracea	arabi-defline	Phytozome	Boleraceacapitata_446_v1.0.annotation_info.txt	yes
-Brassica rapa	arabi-defline	Phytozome	BrapaFPsc_277_v1.3.annotation_info.txt	yes
-Glycine max	arabi-defline	Phytozome	Gmax_508_Wm82.a4.v1.annotation_info.txt	yes
-Hordeum vulgare	arabi-defline	Phytozome	Hvulgare_462_r1.annotation_info.txt	yes
-Medicago truncatula	arabi-defline	Phytozome	Mtruncatula_285_Mt4.0v1.annotation_info.txt	yes
-Oryza sativa	arabi-defline	Phytozome	Osativa_323_v7.0.annotation_info.txt	yes
-Oropetium thomaeum	arabi-defline	Phytozome	Othomaeum_386_v1.0.annotation_info.txt	yes
-Panicum hallii	arabi-defline	Phytozome	Phallii_590_v3.2.annotation_info.txt	yes
-Pharus latifolius	arabi-defline	Phytozome	Platifolius_680_v1.1.annotation_info.txt	yes
-Phaseolus vulgaris	arabi-defline	Phytozome	Pvulgaris_442_v2.1.annotation_info.txt	yes
-Sorghum bicolor	arabi-defline	Phytozome	Sbicolor_454_v3.1.1.annotation_info.txt	yes
-Solanum lycopersicum	arabi-defline	Phytozome	Slycopersicum_691_ITAG4.0.annotation_info.txt	yes
-Triticum aestivum	arabi-defline	Phytozome	Taestivum_296_v2.2.annotation_info.txt	yes
-Thinopyrum intermedium	arabi-defline	Phytozome	Tintermedium_503_v2.1.annotation_info.txt	yes
-Vigna unguiculata	arabi-defline	Phytozome	Vunguiculata_540_v1.2.annotation_info.txt	yes
-Zea mays	arabi-defline	Phytozome	Zmays_493_RefGen_V4.annotation_info.txt	yes
+genome_id	species_name	genotype_name	annotation_type	source	annotation_name
+Ahalleri	Arabidopsis halleri	Ahalleri	arabi-defline	Phytozome	Ahalleri_264_v1.1.annotation_info.txt
+Alyrata	Arabidopsis lyrata	Alyrata	arabi-defline	Phytozome	Alyrata_384_v2.1.annotation_info.txt
+Athaliana	Arabidopsis thaliana	Col-0	rice-defline	Phytozome	Athaliana_167_TAIR10.annotation_info.txt
+Boleracea	Brassica oleracea	Boleracea	arabi-defline	Phytozome	Boleraceacapitata_446_v1.0.annotation_info.txt
+Brapa	Brassica rapa	Brapa	arabi-defline	Phytozome	BrapaFPsc_277_v1.3.annotation_info.txt
+Gmax	Glycine max	Gmax	arabi-defline	Phytozome	Gmax_508_Wm82.a4.v1.annotation_info.txt
+Hvulgare	Hordeum vulgare	Hvulgare	arabi-defline	Phytozome	Hvulgare_462_r1.annotation_info.txt
+Mtruncatula	Medicago truncatula	Mtruncatula	arabi-defline	Phytozome	Mtruncatula_285_Mt4.0v1.annotation_info.txt
+Osativa	Oryza sativa	Osativa	arabi-defline	Phytozome	Osativa_323_v7.0.annotation_info.txt
+Othomaeum	Oropetium thomaeum	Othomaeum	arabi-defline	Phytozome	Othomaeum_386_v1.0.annotation_info.txt
+Phallii	Panicum hallii	Phallii	arabi-defline	Phytozome	Phallii_590_v3.2.annotation_info.txt
+Platifolius	Pharus latifolius	Platifolius	arabi-defline	Phytozome	Platifolius_680_v1.1.annotation_info.txt
+Pvulgaris	Phaseolus vulgaris	Pvulgaris	arabi-defline	Phytozome	Pvulgaris_442_v2.1.annotation_info.txt
+Sbicolor	Sorghum bicolor	Sbicolor	arabi-defline	Phytozome	Sbicolor_454_v3.1.1.annotation_info.txt
+Slycopersicum	Solanum lycopersicum	Slycopersicum	arabi-defline	Phytozome	Slycopersicum_691_ITAG4.0.annotation_info.txt
+Taestivum	Triticum aestivum	Taestivum	arabi-defline	Phytozome	Taestivum_296_v2.2.annotation_info.txt
+Tintermedium	Thinopyrum intermedium	Tintermedium	arabi-defline	Phytozome	Tintermedium_503_v2.1.annotation_info.txt
+Vunguiculata	Vigna unguiculata	Vunguiculata	arabi-defline	Phytozome	Vunguiculata_540_v1.2.annotation_info.txt
+ZmB73v4	Zea mays	B73	arabi-defline	Phytozome	Zmays_493_RefGen_V4.annotation_info.txt

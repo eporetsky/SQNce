@@ -1,2 +1,2 @@
-genotype_id	source	annotation_name	complete
-ZmV4	maizegdb-custom	ZmV4_symbols.txt	yes
+genome_id	source	annotation_name
+ZmB73v4	maizegdb-custom	ZmV4_symbols.txt
